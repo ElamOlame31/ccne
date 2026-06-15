@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# fichiers sources géo bruts (le tracé compact vit dans src/data/geo.js)
+gb.json
+drc_adm1.geojson
+
+# captures de test
+scripts/shot-*.png
